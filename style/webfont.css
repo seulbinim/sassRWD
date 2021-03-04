@@ -1,0 +1,51 @@
+/* fontello */
+@font-face {
+  font-family: 'fontello';
+  src: url('../assets/font/fontello/fontello.eot?98005817');
+  src: url('../assets/font/fontello/fontello.eot?98005817#iefix')
+      format('embedded-opentype'),
+    url('../assets/font/fontello/fontello.woff2?98005817') format('woff2'),
+    url('../assets/font/fontello/fontello.woff?98005817') format('woff'),
+    url('../assets/font/fontello/fontello.ttf?98005817') format('truetype'),
+    url('../assets/font/fontello/fontello.svg?98005817#fontello') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Spoqa Han Sans';
+  font-weight: 700;
+  src: local('Spoqa Han Sans Bold'),
+    url('../assets/font/SpoqaHanSans/SpoqaHanSansBold.woff2') format('woff2'),
+    url('../assets/font/SpoqaHanSans/SpoqaHanSansBold.woff') format('woff'),
+    url('../assets/font/SpoqaHanSans/SpoqaHanSansBold.ttf') format('truetype');
+}
+
+/* Spoqa Han Sans */
+@font-face {
+  font-family: 'Spoqa Han Sans';
+  font-weight: 400;
+  src: local('Spoqa Han Sans Regular'),
+    url('../assets/font/SpoqaHanSans/SpoqaHanSansRegular.woff2') format('woff2'),
+    url('../assets/font/SpoqaHanSans/SpoqaHanSansRegular.woff') format('woff'),
+    url('../assets/font/SpoqaHanSans/SpoqaHanSansRegular.ttf')
+      format('truetype');
+}
+
+@font-face {
+  font-family: 'Spoqa Han Sans';
+  font-weight: 300;
+  src: local('Spoqa Han Sans Light'),
+    url('../assets/font/SpoqaHanSans/SpoqaHanSansLight.woff2') format('woff2'),
+    url('../assets/font/SpoqaHanSans/SpoqaHanSansLight.woff') format('woff'),
+    url('../assets/font/SpoqaHanSans/SpoqaHanSansLight.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Spoqa Han Sans';
+  font-weight: 100;
+  src: local('Spoqa Han Sans Thin'),
+    url('../assets/font/SpoqaHanSans/SpoqaHanSansThin.woff2') format('woff2'),
+    url('../assets/font/SpoqaHanSans/SpoqaHanSansThin.woff') format('woff'),
+    url('../assets/font/SpoqaHanSans/SpoqaHanSansThin.ttf') format('truetype');
+}
